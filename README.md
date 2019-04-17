@@ -255,5 +255,5 @@ HashMap 的put方法就是通过key确定对于数组的下标，再确定有没
         return null;
     }
 ```    
-总结
+## 总结
 至此，缩减版的HashMap就实现了。
