@@ -257,3 +257,4 @@ HashMap 的put方法就是通过key确定对于数组的下标，再确定有没
 ```    
 ## 总结
 至此，缩减版的HashMap就实现了。
+我的博客：https://bthvi-leiqi.blog.csdn.net/
